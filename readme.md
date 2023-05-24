@@ -24,7 +24,13 @@ pip install -r requirements.txt
 The analysis.py script performs the following data analysis tasks and generates the corresponding visualizations:
 
 1. Top 10 Regions with Most Active Cases: Displays a bar chart showing the top 10 regions with the most active COVID-19 cases.
+![Alt Text](C:\Users\aykha\Desktop\Covid-19 Data Analysis Project\barplot_01.png)
 2. Growth Trend to Display the Growth of COVID-19: Plots a line chart to visualize the growth trend of COVID-19 cases over time.
+![Alt Text](C:\Users\aykha\Desktop\Covid-19 Data Analysis Project\lineplot_02.png)
 3. Growth Trend to Display Top 5 Affected States: Shows a line chart representing the growth trend of COVID-19 cases in the top 5 affected states.
+![Alt Text](C:\Users\aykha\Desktop\Covid-19 Data Analysis Project\lineplot_01.png)
 4. Gender Distribution of Vaccinated Individuals: Displays a pie chart representing the distribution of vaccinated individuals by gender.
+![Alt Text](C:\Users\aykha\Desktop\Covid-19 Data Analysis Project\pie.png)
 5. Most Vaccinated Regions: Presents a bar chart displaying the most vaccinated regions based on the available data.
+![Alt Text](C:\Users\aykha\Desktop\Covid-19 Data Analysis Project\barplot_02.png)
+
