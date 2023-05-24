@@ -11,11 +11,11 @@ The analysis.py file contains the Python script that performs the data analysis 
 ##Getting Started
 To get started with the project, follow these steps:
 
-1.Clone the repository or download the project files.
+1. Clone the repository or download the project files.
 
-2.Ensure that you have Python installed on your system.
+2. Ensure that you have Python installed on your system.
 
-3.Install the required libraries by running the following command:
+3. Install the required libraries by running the following command:
 ```
 pip install -r requirements.txt
 ```
